@@ -1,6 +1,12 @@
 # RGBD Saliency
 
 - [RGBD Saliency](#rgbd-saliency)
+  - [2020](#2020)
+    - [1 (IEEE TIP) 1 ICNet: Information Conversion Network for RGB-D Based Salient Object Detection](#1-ieee-tip-1-icnet-information-conversion-network-for-rgb-d-based-salient-object-detection)
+    - [2 (CVPR) JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection](#2-cvpr-jl-dcf-joint-learning-and-densely-cooperative-fusion-framework-for-rgb-d-salient-object-detection)
+    - [3 (CVPR) UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variational Autoencoders](#3-cvpr-uc-net-uncertainty-inspired-rgb-d-saliency-detection-via-conditional-variational-autoencoders)
+    - [4 (CVPR) A2dele: Adaptive and Attentive Depth Distiller for Efficient RGB-D Salient Object Detection](#4-cvpr-a2dele-adaptive-and-attentive-depth-distiller-for-efficient-rgb-d-salient-object-detection)
+    - [5 (CVPR) Select, Supplement and Focus for RGB-D Saliency Detection](#5-cvpr-select-supplement-and-focus-for-rgb-d-saliency-detection)
   - [2019](#2019)
     - [1 (submit to IEEE TNNLS) D3Net: Rethinking RGB-D Salient Object Detection: Models, Datasets, and Large-Scale Benchmarks](#1-submit-to-ieee-tnnls-d3net-rethinking-rgb-d-salient-object-detection-models-datasets-and-large-scale-benchmarks)
     - [2 (ICCV) DMRA: Depth-induced Multi-scale Recurrent Attention Network for Saliency Detection](#2-iccv-dmra-depth-induced-multi-scale-recurrent-attention-network-for-saliency-detection)
@@ -21,6 +27,40 @@
   - [2016](#2016)
     - [1 (IEEE SIGNAL PROCESSING) DCMC: Saliency Detection for Stereoscopic Images Based on Depth Confidence Analysis and Multiple Cues Fusion](#1-ieee-signal-processing-dcmc-saliency-detection-for-stereoscopic-images-based-on-depth-confidence-analysis-and-multiple-cues-fusion)
   - [Reference](#reference)
+
+## 2020
+
+### 1 (IEEE TIP) 1 ICNet: Information Conversion Network for RGB-D Based Salient Object Detection
+
+paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9024241
+
+![](assets/2020-07-18-15-47-30.png)
+
+### 2 (CVPR) JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection
+
+paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Fu_JL-DCF_Joint_Learning_and_Densely-Cooperative_Fusion_Framework_for_RGB-D_Salient_CVPR_2020_paper.pdf
+
+![](assets/2020-07-18-15-50-11.png)
+
+### 3 (CVPR) UC-Net: Uncertainty Inspired RGB-D Saliency Detection via Conditional Variational Autoencoders
+
+paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_UC-Net_Uncertainty_Inspired_RGB-D_Saliency_Detection_via_Conditional_Variational_Autoencoders_CVPR_2020_paper.pdf
+
+![](assets/2020-07-18-15-52-55.png)
+
+![](assets/2020-07-18-15-53-41.png)
+
+### 4 (CVPR) A2dele: Adaptive and Attentive Depth Distiller for Efficient RGB-D Salient Object Detection
+
+paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Piao_A2dele_Adaptive_and_Attentive_Depth_Distiller_for_Efficient_RGB-D_Salient_CVPR_2020_paper.pdf
+
+![](assets/2020-07-18-15-55-00.png)
+
+### 5 (CVPR) Select, Supplement and Focus for RGB-D Saliency Detection
+
+paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Select_Supplement_and_Focus_for_RGB-D_Saliency_Detection_CVPR_2020_paper.pdf
+
+![](assets/2020-07-18-15-56-21.png)
 
 ## 2019
 
@@ -123,4 +163,3 @@ paper: https://arxiv.org/pdf/1705.03607.pdf
 ## Reference
 
 * https://github.com/jiwei0921/SOD-CNNs-based-code-summary-
-
